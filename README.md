@@ -1,5 +1,5 @@
 ## Welcome! I'm Raimundo Junior
-### I'm just fall in love for programming, I believe we need to work hard for do that we love, so I'm working hard to become a Developer.
+### I'm just fall in love for programming, I believe we need to work hard for do that we love, so I'm working hard to become a good Developer.
   <a href="https://github.com/RaimundoJSoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaimundoJSoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
